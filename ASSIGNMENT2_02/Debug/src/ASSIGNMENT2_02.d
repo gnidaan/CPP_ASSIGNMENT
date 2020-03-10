@@ -1,0 +1,1 @@
+src/ASSIGNMENT2_02.o: ../src/ASSIGNMENT2_02.cpp
